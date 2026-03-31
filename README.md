@@ -1,2 +1,0 @@
-# gemini
-files for gem
