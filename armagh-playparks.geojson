@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.6031956, 54.4083095] },
+      "properties": {
+        "name": "Loughgall Country Park",
+        "description": "A beautiful rural estate with a large lake, forest walks, and a quiet, safe play area perfect for a family stroll.",
+        "infoUrl": "https://www.weeadventurers.com/post/loughgall-country-park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.5725185, 54.5128773] },
+      "properties": {
+        "name": "Maghery Country Park",
+        "description": "Situated on the shores of Lough Neagh, offering woodland walks and a pleasant playground in a tranquil setting.",
+        "infoUrl": "https://www.weeadventurers.com/post/maghery-country-park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.5136122, 54.3070762] },
+      "properties": {
+        "name": "Gosford Forest Park",
+        "description": "Home to the incredible 'All Out Play' adventure playground with giant wooden castles and zip lines. A must-visit!",
+        "infoUrl": "https://www.weeadventurers.com/post/gosford-forest-park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.6150067, 54.4838525] },
+      "properties": {
+        "name": "Peatlands Park",
+        "description": "Unique bogland park with a narrow-gauge railway and miles of easy-access walking trails through the woods.",
+        "infoUrl": "https://www.weeadventurers.com/post/peatlands-park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.3615346, 54.3297639] },
+      "properties": {
+        "name": "Scarva Park",
+        "description": "A lovely park beside the Newry Canal towpath. Famous for its local tea rooms and award-winning floral displays.",
+        "infoUrl": "https://www.weeadventurers.com/post/scarva-park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.4297348, 54.4272215] },
+      "properties": {
+        "name": "Edenvilla Park",
+        "description": "Hidden gem in Portadown featuring the Secret Garden, a bird sanctuary, and a well-maintained playground.",
+        "infoUrl": "https://www.weeadventurers.com/post/edenvilla-park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.3850435, 54.4956526] },
+      "properties": {
+        "name": "Oxford Island Nature Reserve",
+        "description": "Beautiful nature reserve on Lough Neagh with bird-watching hides, woodland walks, and a lakeside cafe.",
+        "infoUrl": "https://www.weeadventurers.com/post/oxford-island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.4089041, 54.1160255] },
+      "properties": {
+        "name": "Slieve Gullion Forest Park",
+        "description": "Magical for kids! Features the 'Giant's Lair' adventure trail and a massive adventure play park.",
+        "infoUrl": "https://www.weeadventurers.com/post/slieve-gullion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.3262155, 54.464395] },
+      "properties": {
+        "name": "Lurgan Park",
+        "description": "Ireland's second-largest municipal park. Offers a massive lake, miles of paths, and a great inclusive playground.",
+        "infoUrl": "https://www.weeadventurers.com/post/lurgan-park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-6.3811845, 54.4645887] },
+      "properties": {
+        "name": "Tannaghmore Gardens & Animal Farm",
+        "description": "A family favourite with rare-breed farm animals, beautiful gardens, and one of the largest playgrounds in the area.",
+        "infoUrl": "https://www.weeadventurers.com/post/tannaghmore-gardens"
+      }
+    }
+  ]
+}

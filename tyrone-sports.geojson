@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.7665643, 54.6265068]
+            },
+            "properties": {
+                "name": "Inflatable World",
+                "description": "A massive indoor arena filled with bouncy obstacles and giant slides. Perfect for high-energy kids on a rainy day in Cookstown.",
+                "infoUrl": "https://www.weeadventurers.com/post/inflatable-world"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.8102601, 54.5753366]
+            },
+            "properties": {
+                "name": "DJ's Golf Driving Range",
+                "description": "A great spot for older kids and teens to practice their swing. Features modern bays and a relaxed atmosphere for budding golfers.",
+                "infoUrl": "https://www.weeadventurers.com/post/dj-s-golf-driving-range"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.071139, 54.488133]
+            },
+            "properties": {
+                "name": "Todds Leap Activity Centre",
+                "description": "Northern Ireland's ultimate adventure destination! From off-road racing to zip lines and giant swings, it's perfect for a big family day out.",
+                "infoUrl": "https://www.weeadventurers.com/post/todd-s-leap"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.763372, 54.6289202]
+            },
+            "properties": {
+                "name": "Inflatable World Cookstown",
+                "description": "A massive indoor arena filled with giant inflatables, slides, and bouncy obstacles. An ideal high-energy spot for kids to burn off steam regardless of the weather.",
+                "infoUrl": "https://www.weeadventurers.com/post/inflatable-world"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.7473693, 54.6470916]
+            },
+            "properties": {
+                "name": "Wee Adventurers Play Hub",
+                "description": "A modern and clean indoor play space in Cookstown. Tailored specifically for younger children and toddlers with imaginative play zones and safe climbing areas.",
+                "infoUrl": "https://www.weeadventurers.com/post/wee-adventurers-play-hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.9700435, 54.4958065]
+            },
+            "properties": {
+                "name": "Happy Dayz",
+                "description": "A popular multi-level soft play centre in Ballygawley. Features large slides, ball pits, and a dedicated cafe area for parents.",
+                "infoUrl": "https://www.weeadventurers.com/post/happy-dayz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.1461979, 54.5532421]
+            },
+            "properties": {
+                "name": "Duff Land",
+                "description": "Located in Pomeroy, this 'indoor theme park' offers a unique mix of soft play and inflatable fun, making it a favorite for birthday parties and family day trips.",
+                "infoUrl": "https://www.weeadventurers.com/post/duff-land"
+            }
+        }
+    ]
+}

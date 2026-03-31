@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.5498055, 54.9522655]
+            },
+            "properties": {
+                "name": "The Lake Kilrea WaterPark",
+                "description": "A giant inflatable water park adventure! Perfect for a family day out with massive slides, obstacles, and splashing fun on the lake.",
+                "infoUrl": "https://www.weeadventurers.com/post/the-lake-kilrea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6699395, 54.7249718]
+            },
+            "properties": {
+                "name": "Jungle NI",
+                "description": "Northern Ireland's leading outdoor adventure centre. From zorbing and paintball to tree-top trails and seasonal events, there is something for every brave adventurer.",
+                "infoUrl": "https://www.weeadventurers.com/post/the-jungle"
+            }
+        }
+    ]
+}

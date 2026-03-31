@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.7283404, 54.4774472]
+            },
+            "properties": {
+                "name": "Castle Archdale Country Park",
+                "description": "A sprawling lakeside park with a WWII history trail, a fantastic adventure playground, and plenty of woodland paths for cycling and walking.",
+                "infoUrl": "https://www.weeadventurers.com/post/castle-archdale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.6479844, 54.3492535]
+            },
+            "properties": {
+                "name": "The Round 'O' Jetty",
+                "description": "A perfect family spot in Enniskillen with a large playground, open green spaces, and a chance to watch the boats on the Erne. Great for a picnic!",
+                "infoUrl": "https://www.weeadventurers.com/post/round-o-jetty"
+            }
+        }
+    ]
+}

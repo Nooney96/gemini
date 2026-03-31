@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.4628041, 55.0232701]
+            },
+            "properties": {
+                "name": "Rosepark Farm",
+                "description": "A fantastic family-run farm with a petting zoo, inland beach, and lovely walkways perfect for a day out.",
+                "infoUrl": "https://www.weeadventurers.com/post/rosepark-farm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.8172416, 54.5800747]
+            },
+            "properties": {
+                "name": "Streamvale Farm",
+                "description": "A classic dairy farm experience where kids can cuddle puppies, feed goats, and enjoy tractor rides.",
+                "infoUrl": "https://www.weeadventurers.com/post/streamvale-farm"
+            }
+        }
+    ]
+}

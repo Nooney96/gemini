@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.9056707, 54.4096051]
+            },
+            "properties": {
+                "name": "Global Adventure Play",
+                "description": "An expansive indoor soft play centre featuring multi-level climbing frames, slides, and dedicated zones for different age groups. A great all-weather option for burning off energy!",
+                "infoUrl": "https://www.weeadventurers.com/post/global-adveture-play"
+            }
+        }
+    ]
+}

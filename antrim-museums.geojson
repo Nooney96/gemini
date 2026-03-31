@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.9561663, 54.9661652]
+            },
+            "properties": {
+                "name": "Glenarm Castle & Gardens",
+                "description": "Explore one of Northern Ireland's oldest estates. Featuring a stunning walled garden, a charming tea room, and a fantastic woodland play area for the little ones.",
+                "infoUrl": "https://www.weeadventurers.com/post/glenarm-castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.9155104, 54.6047336]
+            },
+            "properties": {
+                "name": "W5 Science & Discovery Centre",
+                "description": "The ultimate family day out! With over 250 interactive exhibits across eight themed zones, W5 offers a fun and educational experience for curious minds of all ages.",
+                "infoUrl": "https://www.weeadventurers.com/post/___w5"
+            }
+        }
+    ]
+}

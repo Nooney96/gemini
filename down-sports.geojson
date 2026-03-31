@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.9520335, 54.2606201]
+            },
+            "properties": {
+                "name": "Life Adventure Centre",
+                "description": "Located within Castlewellan Forest Park, this centre offers fantastic outdoor experiences including mountain bike hire, kayaking, and paddleboarding for active families.",
+                "infoUrl": "https://www.weeadventurers.com/post/life-adventure-centre"
+            }
+        }
+    ]
+}

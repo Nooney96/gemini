@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.9991068, 54.7508522]
+            },
+            "properties": {
+                "name": "Mini Minds Play Cafe",
+                "description": "A wonderful spot for little ones to learn and play while parents enjoy a coffee.",
+                "infoUrl": "https://www.weeadventurers.com/post/mini-minds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.0409336, 54.5002315]
+            },
+            "properties": {
+                "name": "High Rise Lisburn",
+                "description": "Family adventure centre featuring climbing walls, soft play, and sensory rooms.",
+                "infoUrl": "https://www.weeadventurers.com/post/high-rise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.3203393, 54.7489403]
+            },
+            "properties": {
+                "name": "Little Izzie's Play Cafe",
+                "description": "A cozy play cafe perfect for toddlers and young children to explore safely.",
+                "infoUrl": "https://www.weeadventurers.com/post/little-izzies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.0467796, 54.5099041]
+            },
+            "properties": {
+                "name": "Nature and Nurture",
+                "description": "A unique space focused on natural play and child development.",
+                "infoUrl": "https://www.weeadventurers.com/post/nature-nurture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.9873267, 54.5733828]
+            },
+            "properties": {
+                "name": "Andersonstown Leisure Centre",
+                "description": "Home to a fantastic indoor water park with slides and splash zones for all ages.",
+                "infoUrl": "https://www.weeadventurers.com/post/andersontown-leisure-centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.949787, 54.6654171]
+            },
+            "properties": {
+                "name": "Little Play Studio",
+                "description": "A creative and imaginative role-play studio for young adventurers.",
+                "infoUrl": "https://www.weeadventurers.com/post/little-play-studio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.0208075, 54.5607987]
+            },
+            "properties": {
+                "name": "Roar and Explore",
+                "description": "An exciting jungle-themed soft play area where kids can burn off plenty of energy.",
+                "infoUrl": "https://www.weeadventurers.com/post/roar-and-explore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.9155104, 54.6047336]
+            },
+            "properties": {
+                "name": "W5",
+                "description": "The ultimate science and discovery centre with interactive exhibits for the whole family.",
+                "infoUrl": "https://www.weeadventurers.com/post/___w5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.02908, 54.503598]
+            },
+            "properties": {
+                "name": "Dobbies Garden Centre Lisburn",
+                "description": "Features a great soft play area and family-friendly cafe alongside the garden centre.",
+                "infoUrl": "https://www.weeadventurers.com/post/dobbies-lisburn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.2568265, 54.8508441]
+            },
+            "properties": {
+                "name": "Honeybees Playtown",
+                "description": "An adorable role-play village where children can pretend to be anything they want.",
+                "infoUrl": "https://www.weeadventurers.com/post/honeybees-playtown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.0689153, 54.7406616]
+            },
+            "properties": {
+                "name": "The Wee Village",
+                "description": "A charming and interactive role-play experience designed specifically for little ones.",
+                "infoUrl": "https://www.weeadventurers.com/post/the-wee-village"
+            }
+        }
+    ]
+}

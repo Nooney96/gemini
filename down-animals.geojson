@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.2365442, 54.1101257]
+            },
+            "properties": {
+                "name": "Fort Evergreen",
+                "description": "A brilliant petting farm and play fort near Warrenpoint. Kids can meet the animals, enjoy the play areas, and explore the wooden fort—great for a family day out.",
+                "infoUrl": "https://www.weeadventurers.com/post/fort-evergreen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.8446293, 54.2776647]
+            },
+            "properties": {
+                "name": "Mountpanther Farm Park",
+                "description": "A high-end farm park experience featuring exotic animals, a huge indoor play area, and seasonal events that the kids will love.",
+                "infoUrl": "https://www.weeadventurers.com/post/mountpanther-farm-park"
+            }
+        }
+    ]
+}

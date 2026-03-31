@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6526709, 55.2041945]
+            },
+            "properties": {
+                "name": "Portrush Strand",
+                "description": "A classic seaside destination. Perfect for building sandcastles, splashing in the waves, and enjoying a family walk along the shore.",
+                "infoUrl": "https://www.weeadventurers.com/post/portrush"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6505621, 55.2058068]
+            },
+            "properties": {
+                "name": "The Arcadia Cafe",
+                "description": "A landmark spot in Portrush. Great for a family treat with beautiful views of the coastline and rocky pools nearby to explore.",
+                "infoUrl": "https://www.weeadventurers.com/post/arcadia"
+            }
+        }
+    ]
+}

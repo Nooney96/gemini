@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6777002, 55.1193997]
+            },
+            "properties": {
+                "name": "The Jet Centre",
+                "description": "The ultimate rainy-day destination! A massive indoor hub featuring a cinema, bowling alley, mini-golf, and the popular 'Alley Cats' soft play area.",
+                "infoUrl": "https://www.weeadventurers.com/post/the-jet-centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.671925, 54.843889]
+            },
+            "properties": {
+                "name": "R Crawford & Co",
+                "description": "A legendary local department store in Maghera. Renowned for its incredible toy department, it's a favorite stop for families looking for something special.",
+                "infoUrl": "https://www.weeadventurers.com/post/crawfords"
+            }
+        }
+    ]
+}

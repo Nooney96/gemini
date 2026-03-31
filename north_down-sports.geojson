@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.8946793, 54.5240621]
+            },
+            "properties": {
+                "name": "Let's Go Hydro",
+                "description": "An epic water sports park and resort. Featuring a massive inflatable aqua park, kayaking, paddleboarding, and even a drive-in cinema. A must for thrill-seeking families!",
+                "infoUrl": "https://www.weeadventurers.com/post/let-s-go-hydro"
+            }
+        }
+    ]
+}

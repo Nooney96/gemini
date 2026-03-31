@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6454568, 54.6487357]
+            },
+            "properties": {
+                "name": "Littlebridge Farm Fresh",
+                "description": "A fantastic local farm shop and family-run business. Famous for its fresh local produce and welcoming atmosphere for families visiting the area.",
+                "infoUrl": "https://www.weeadventurers.com/post/little-bridge-farm-fresh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6732321, 54.7625371]
+            },
+            "properties": {
+                "name": "Grangewater Open Farm",
+                "description": "A wonderful hands-on experience for kids! Get up close with the animals, enjoy the play areas, and experience life on a working farm.",
+                "infoUrl": "https://www.weeadventurers.com/post/grangewater-open-farm"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.3250377, 54.9951734]
+            },
+            "properties": {
+                "name": "The Derry Walls",
+                "description": "Walk the only remaining completely intact walled city in Ireland. A fantastic way for families to explore history while enjoying elevated views of the city.",
+                "infoUrl": "https://www.weeadventurers.com/post/derry-city-walls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.6555113, 54.6856585]
+            },
+            "properties": {
+                "name": "Springhill (National Trust)",
+                "description": "A beautiful 17th-century estate featuring a 'haunted' house, a charming costume collection, and a wonderful natural play area for children.",
+                "infoUrl": "https://www.weeadventurers.com/post/springhill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.8108972, 55.1677806]
+            },
+            "properties": {
+                "name": "Mussenden Temple",
+                "description": "Perched dramatically on the edge of a cliff, this iconic temple offers breathtaking coastal views and beautiful estate walks perfect for a family adventure.",
+                "infoUrl": "https://www.weeadventurers.com/post/mussenden-temple"
+            }
+        }
+    ]
+}

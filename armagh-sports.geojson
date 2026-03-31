@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.3918496, 54.4458701]
+      },
+      "properties": {
+        "name": "Airtastic Craigavon",
+        "description": "A massive entertainment hub featuring a trampoline park, ninja course, and high-energy activities. Perfect for older kids and adventurous little ones!",
+        "infoUrl": "https://www.weeadventurers.com/post/airtastic"
+      }
+    }
+  ]
+}

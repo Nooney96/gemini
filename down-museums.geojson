@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.8295331, 54.44769]
+            },
+            "properties": {
+                "name": "Rowallane Garden (National Trust)",
+                "description": "A beautiful and world-renowned garden full of hidden corners to explore. Features lovely natural play areas, woodland walks, and a cozy cafe in the old stable block.",
+                "infoUrl": "https://www.weeadventurers.com/post/rowallane-gardens"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-6.3432237, 54.1784961]
+            },
+            "properties": {
+                "name": "The Imaginarium",
+                "description": "A wonderful arts-based creative play center. It offers a unique, sensory-rich environment where children can explore their imagination through light, art, and play.",
+                "infoUrl": "https://www.weeadventurers.com/post/the-imaginarium"
+            }
+        }
+    ]
+}

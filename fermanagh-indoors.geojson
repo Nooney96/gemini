@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.6330017, 54.3441047]
+            },
+            "properties": {
+                "name": "Twig & Tumble",
+                "description": "A beautiful, modern indoor play space in Enniskillen. Perfect for toddlers and young children, offering a safe and imaginative environment for little explorers.",
+                "infoUrl": "https://www.weeadventurers.com/post/twig-tumble"
+            }
+        }
+    ]
+}
